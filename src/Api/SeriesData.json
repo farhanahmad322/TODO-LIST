@@ -1,0 +1,104 @@
+ [
+      {
+        "id": 12345,
+        "title": "Stranger Things",
+        "overview": "A group of young friends in a small town uncover a series of supernatural mysteries.",
+        "release_date": "2016-07-15",
+        "poster_path": "https://tse4.mm.bing.net/th?id=OIP.lQ25uGKAtswHJ3wNXjO6nQHaFj&pid=Api&P=0&h=180",
+       
+        "url":"https://www.youtube.com/watch?v=SF_wY3TA1CE",
+        "vote_average": 8.6,
+        "vote_count": 10000
+      },
+      {
+        "id": 67890,
+        "title": "The Witcher",
+        "overview": "A mutated monster-hunter for hire, Geralt, struggles to find his place in a world where people often prove more wicked than beasts.",
+        "release_date": "2019-12-20",
+        "url":"https://www.youtube.com/watch?v=SF_wY3TA1CE",
+        "poster_path": "https://images.pexels.com/photos/19595430/pexels-photo-19595430/free-photo-of-sitting-man-in-shirt-and-sunglasses.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "vote_average": 8.2,
+        "vote_count": 8000
+      },
+      {
+        "id": 11223,
+        "title": "Money Heist",
+        "overview": "A criminal mastermind who goes by 'The Professor' plans the biggest heist in recorded history.",
+        "release_date": "2017-05-02",
+        "url":"https://www.youtube.com/watch?v=SF_wY3TA1CE",
+        "poster_path": "https://images.pexels.com/photos/15715766/pexels-photo-15715766/free-photo-of-fashion-model-posing-in-black-coat-at-steps.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "vote_average": 8.3,
+        "vote_count": 12000
+      },
+      {
+        "id": 44556,
+        "title": "Breaking Bad",
+        "overview": "A high school chemistry teacher turned methamphetamine producer partners with a former student.",
+        "release_date": "2008-01-20",
+        "url":"https://www.youtube.com/watch?v=SF_wY3TA1CE",
+        "poster_path": "https://www.pexels.com/photo/man-leaning-on-bar-in-black-and-white-20859114/",
+        "vote_average": 9.5,
+        "vote_count": 13000
+      },
+      {
+        "id": 77889,
+        "title": "Narcos",
+        "overview": "The true story of Colombia's infamously violent and powerful drug cartels.",
+        "release_date": "2015-08-28",
+        "url":"https://www.youtube.com/watch?v=SF_wY3TA1CE",
+        "poster_path": "/path_to_narcos_poster.jpg",
+        "vote_average": 8.8,
+        "vote_count": 7000
+      },
+      {
+        "id": 99100,
+        "title": "Dark",
+        "overview": "A family saga with a supernatural twist, set in a German town where the disappearance of two young children exposes the relationships among four families.",
+        "release_date": "2017-12-01",
+        "url":"https://www.youtube.com/watch?v=SF_wY3TA1CE",
+        "poster_path": "https://img.jagrantv.com/gram_pachayattt.jpg",
+        "vote_average": 8.8,
+        "vote_count": 9000
+      },
+      {
+        "id": 10203,
+        "title": "Black Mirror",
+        "overview": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
+        "release_date": "2011-12-04",
+        "url":"https://www.youtube.com/watch?v=SF_wY3TA1CE",
+        "poster_path": "https://img.jagrantv.com/gram_pachayattt.jpg",
+        "vote_average": 8.8,
+        "vote_count": 11000
+      },
+      {
+        "id": 10405,
+        "title": "The Crown",
+        "overview": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
+        "release_date": "2016-11-04",
+        "url":"https://www.youtube.com/watch?v=SF_wY3TA1CE",
+        "poster_path": "https://img.jagrantv.com/gram_pachayattt.jpg",
+        "vote_average": 8.7,
+        "vote_count": 6000
+      },
+      {
+        "id": 10607,
+        "title": "Ozark",
+        "overview": "A financial planner relocates his family to the Ozarks after a money-laundering scheme goes wrong.",
+        "release_date": "2017-07-21",
+        "url":"https://www.youtube.com/watch?v=SF_wY3TA1CE",
+        "poster_path": "/path_to_ozark_poster.jpg",
+        "vote_average": 8.5,
+        "vote_count": 8000
+      },
+      {
+        "id": 10809,
+        "title": "House of Cards",
+        "overview": "A ruthless politician will stop at nothing to conquer Washington, D.C., in this Emmy and Golden Globe-winning political drama.",
+        "release_date": "2013-02-01",
+        "url":"https://www.youtube.com/watch?v=SF_wY3TA1CE",
+        "poster_path": "/path_to_house_of_cards_poster.jpg",
+        "vote_average": 8.5,
+        "vote_count": 10000
+      }
+    ]
+    
